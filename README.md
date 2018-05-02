@@ -1,5 +1,5 @@
 # 360so-map
-360搜索技论坛，第二期前端专场，React in 360Map
+在360搜索技论坛，第二期前端专场上分享的内容《React in 360Map》
 
 
 - PPT：[React工程实战--360 PC地图新版](https://pan.baidu.com/s/1PMPRzUEWPoaUFosYDYDN7Q)  

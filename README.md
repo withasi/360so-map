@@ -2,8 +2,8 @@
 360搜索技论坛，第二期前端专场，React in 360Map
 
 
-- PPT：[3.PWA技术揭秘.pdf](https://github.com/anjia/360so-PWA/blob/master/3.PWA%E6%8A%80%E6%9C%AF%E6%8F%AD%E7%A7%98.pdf)  
-- 视频：[PWA技术揭秘](https://v.qq.com/x/page/v0396wk6a0p.html)  
+- PPT：[React工程实战--360 PC地图新版](https://pan.baidu.com/s/1PMPRzUEWPoaUFosYDYDN7Q)  
+- 视频：[React工程实战--360 PC地图新版](https://v.qq.com/x/page/v0396u1m6f2.htmll)  
 
 # 更多
 360搜索技术论坛
